@@ -8,13 +8,3 @@ body{
     background-color: green;
 }
 
-.zydeco-dance li::before {
-    content: "•"; 
-    color: #d4af37;
-    font-weight: bold;
-    display: inline-block; 
-    width: 1em;
-    margin-left: -1em;
-}
-
-    
